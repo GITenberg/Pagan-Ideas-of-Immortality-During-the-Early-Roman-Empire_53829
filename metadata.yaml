@@ -1,0 +1,26 @@
+_repo: Pagan-Ideas-of-Immortality-During-the-Early-Roman-Empire_53829
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, Clifford Herschel
+    birthdate: 1866
+    deathdate: 1931
+    gutenberg_agent_id: '47561'
+    url: http://www.gutenberg.org/2009/agents/47561
+description: ''
+gutenberg_issued: '2016-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53829'
+  lccn: '18019585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- Religion'
+- !lcsh 'Immortality'
+- !lcc 'BL'
+- GITenberg
+title: Pagan Ideas of Immortality During the Early Roman Empire
+url: http://www.gutenberg.org/ebooks/53829
